@@ -10,4 +10,4 @@ The code makes use of:
 
 ETC.py hosts the routine to calculate the S/N and to create interactive visualizations while utils.py hosts the functions used inside ETC.py
 
-This code was used to create the visualization in [this post.](address)
+This code was used to create the visualization in [this post.](https://www.jvines.cl/articles/feros-etc)
